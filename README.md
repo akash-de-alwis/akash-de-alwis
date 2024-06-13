@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash De Alwis</h1>
+<h1 align="center">Hi! I'm Akash De Alwis</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 - 👨‍💻 All of my projects are available at [https://hostpofolio.000webhostapp.com/](https://hostpofolio.000webhostapp.com/)
