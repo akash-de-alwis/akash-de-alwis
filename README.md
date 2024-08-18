@@ -5,7 +5,10 @@
 
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/747b89a5-c3c7-4c78-a4a1-d6f0ba06e9c3)
 
+<p align ="right">
   ![Lovely Animations of the Month — December 2017](https://github.com/user-attachments/assets/9ba45365-0c0b-4337-b848-ea631a0e50d0)
+</p>
+  
 
 
 
