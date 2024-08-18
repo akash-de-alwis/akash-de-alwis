@@ -1,7 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akash De Alwis</title>
+    <!-- Google Fonts Link -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap">
+    <style>
+        body {
+            font-family: 'Orbitron', sans-serif;
+        }
+        h1, h3, p, ul, table {
+            font-family: 'Orbitron', sans-serif;
+        }
+    </style>
+</head>
+<body>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!;+I%27m+Akash+De+Alwis+!;" />
 </h1>
-
 
 <h3 align="center">A passionate IT student from Sri Lanka Institute of Information Technology.</h3>
 
@@ -42,3 +60,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,kotlin,figma,git,r,nodejs,javascript,mongodb,c,cpp,java,mysql,express" />
+
+</body>
+</html>
