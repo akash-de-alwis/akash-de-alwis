@@ -18,7 +18,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif" alt="GIF" width="300px"/>
+      <img src="[https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif](https://dribbble.com/shots/4948736-UI-Developer?utm_source=Clipboard_Shot&utm_campaign=sahil_design&utm_content=UI%20Developer&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=sahil_design&utm_content=UI%20Developer&utm_medium=Social_Share)" alt="GIF" width="300px"/>
     </td>
   </tr>
 </table>
