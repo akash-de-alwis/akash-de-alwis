@@ -43,6 +43,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,kotlin,figma,git,r,nodejs,javascript,mongodb,c,cpp,java,mysql,express" />
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
