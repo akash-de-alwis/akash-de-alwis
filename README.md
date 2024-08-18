@@ -23,6 +23,7 @@
   </tr>
 </table>
 
+<i class="fa-brands fa-android"></i>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
