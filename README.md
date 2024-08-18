@@ -24,7 +24,7 @@
 </table>
 
 
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r,nodejs,javascript,mongodb,c,c++,java,mysql" />
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
