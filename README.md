@@ -12,7 +12,7 @@
         <li>- 👨‍💻 All of my projects are available at [link](link)<strong>[Your Project Name]</strong></li>
         <li>- 📝 I regularly write articles on [link](link)<strong>[Your Learning Focus]</strong></li>
         <li>- 📫 How to reach me **akashdealwis@gmail.com** <strong>[Your Collaboration Interest]</strong></li>
-        <li>💬 Ask me about <strong>[Your Skills or Topics]</strong></li>
+        <li>- 💬 Ask me about <strong>[Your Skills or Topics]</strong></li>
         <li>- 📄 Know about my experiences [link](link) <strong>[Your Email]</strong></li>
         <li>⚡ Fun fact: <strong>[Fun Fact About You]</strong></li>
       </ul>
@@ -23,7 +23,6 @@
   </tr>
 </table>
 
-<i class="fa-brands fa-android"></i>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
