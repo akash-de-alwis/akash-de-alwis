@@ -1,12 +1,9 @@
 <h1 align="center">Hi, I'm Akash De Alwis</h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash+Muniz!;" />
 </h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash+De Alwis!;" />
-</h1>
 <h3 align="center">A passionate IT student from Sri Lanka Institute of Information Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-de-alwis&label=Profile%20views&color=0e75b6&style=flat" alt="akash-de-alwis" /> </p>
