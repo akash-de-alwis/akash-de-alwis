@@ -1,24 +1,28 @@
-<h1 align="center">Hi 👋, I'm Akash De Alwis</h1>
+<h1 align="center">Hi, I'm Akash De Alwis</h1>
 <h3 align="center">A passionate IT student from Sri Lanka Institute of Information Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-de-alwis&label=Profile%20views&color=0e75b6&style=flat" alt="akash-de-alwis" /> </p>
 
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/747b89a5-c3c7-4c78-a4a1-d6f0ba06e9c3)
 
-<p align ="right">
-  ![Lovely Animations of the Month — December 2017](https://github.com/user-attachments/assets/9ba45365-0c0b-4337-b848-ea631a0e50d0)
-</p>
-  
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>- 👨‍💻 All of my projects are available at [link](link)<strong>[Your Project Name]</strong></li>
+        <li>- 📝 I regularly write articles on [link](link)<strong>[Your Learning Focus]</strong></li>
+        <li>- 📫 How to reach me **akashdealwis@gmail.com** <strong>[Your Collaboration Interest]</strong></li>
+        <li>💬 Ask me about <strong>[Your Skills or Topics]</strong></li>
+        <li>- 📄 Know about my experiences [link](link) <strong>[Your Email]</strong></li>
+        <li>⚡ Fun fact: <strong>[Fun Fact About You]</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif" alt="GIF" width="300px"/>
+    </td>
+  </tr>
+</table>
 
-
-
-- 👨‍💻 All of my projects are available at [link](link)
-
-- 📝 I regularly write articles on [link](link)
-
-- 📫 How to reach me **akashdealwis@gmail.com**
-
-- 📄 Know about my experiences [link](link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
