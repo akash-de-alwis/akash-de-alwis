@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-de-alwis&label=Profile%20views&color=0e75b6&style=flat" alt="akash-de-alwis" /> </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=dark" alt="Your Username's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&hide_border=true&theme=dark" alt="Your Username's Top Languages" />
+</p>
+
 - 👨‍💻 All of my projects are available at [link](link)
 
 - 📝 I regularly write articles on [link](link)
