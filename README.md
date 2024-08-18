@@ -18,7 +18,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://pixeljoint.com/files/icons/full/4004_simu_part.gif" alt="GIF" width="300px"/>
+      <img src="[https://pixeljoint.com/files/icons/full/4004_simu_part.gif](https://www.shutterstock.com/shutterstock/videos/1059451049/preview/stock-footage-cpu-circuit-and-other-processors-flying-over-futuristic-circuit-board-circuit-animation-footage.webm)" alt="GIF" width="300px"/>
     </td>
   </tr>
 </table>
