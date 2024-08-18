@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-de-alwis&label=Profile%20views&color=0e75b6&style=flat" alt="akash-de-alwis" /> </p>
 
-<p align="center">
-  <img src="![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/747b89a5-c3c7-4c78-a4a1-d6f0ba06e9c3)" alt="profile-summary" />
-</p>
+![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/747b89a5-c3c7-4c78-a4a1-d6f0ba06e9c3)
 
 - 👨‍💻 All of my projects are available at [link](link)
 
