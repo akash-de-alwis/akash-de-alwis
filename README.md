@@ -9,7 +9,7 @@
 
 ![Add a heading (1)](https://github.com/user-attachments/assets/f0a9a5b4-3f2a-465d-913a-9a6e63c0427e)
 <div align="center">
-  <table style="width: 1584px;">
+  <table style="width: 2000px;">
     <tr>
       <td>
         <ul>
