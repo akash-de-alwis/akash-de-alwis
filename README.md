@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-de-alwis&label=Profile%20views&color=0e75b6&style=flat" alt="akash-de-alwis" /> </p>
 
 ![Add a heading (1)](https://github.com/user-attachments/assets/f0a9a5b4-3f2a-465d-913a-9a6e63c0427e)
-
+![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/335ad128-3f6c-44db-a158-3f6a3573d78e)
 <table>
   <tr>
     <td>
