@@ -15,7 +15,7 @@
       <ul>
         <li>- 👨‍💻 All of my projects are available at akashdealwis.kesug.com<strong></strong></li>
         <li>- 📝 I regularly write articles on https://hashnode.com/@ZENCODE002<strong></strong></li>
-        <li>- 📫 How to reach me akashdealwis@gmail.com <strong></strong></li>
+        <li>- 📫 How to reach me <a>akashdealwis@gmail.com</a> <strong></strong></li>
         <li>- 💬 Ask me about <strong>[Your Skills or Topics]</strong></li>
         <li>- 📄 Know about my experiences [link](link) <strong>[Your Email]</strong></li>
         <li>⚡ Fun fact: <strong>[Fun Fact About You]</strong></li>
