@@ -12,12 +12,12 @@
   <tr>
     <td>
       <ul>
-        <li>- 👨‍💻 All of my projects are available at akashdealwis.kesug.com<strong></strong></li>
+        <li>- 👨‍💻 All of my projects are available at http://akashdealwis.kesug.com/<strong></strong></li>
         <li>- 📝 I regularly write articles on https://zencode002.hashnode.dev/<strong></strong></li>
         <li>- 📫 How to reach me <a>akashdealwis@gmail.com</a> <strong></strong></li>
-        <li>- 💬 Ask me about <strong>[Your Skills or Topics]</strong></li>
-        <li>- 📄 Know about my experiences [link](link) <strong>[Your Email]</strong></li>
-        <li>⚡ Fun fact: <strong>[Fun Fact About You]</strong></li>
+        <li>- 💬 Ask me about <strong>Kotlin or Figma</strong></li>
+        <li>- 📄 Know about my experiences http://akashdealwis.kesug.com</strong></li>
+        <li>⚡ Fun fact: <strong>My best code ideas come during coffee breaks.</strong></li>
       </ul>
     </td>
     <td>
