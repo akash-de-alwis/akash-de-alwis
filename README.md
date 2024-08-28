@@ -41,7 +41,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,kotlin,figma,scratch,git,r,nodejs,javascript,mongodb,c,cpp,java,mysql,express" />
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,html,css,vscode,github,kotlin,figma,git,r,nodejs,javascript,mongodb,c,cpp,java,mysql,express" />
 
 
 
