@@ -21,7 +21,7 @@
         </ul>
       </td>
       <td>
-        <img src="![c6174a01117d34e04eb15d37d652c635](https://github.com/user-attachments/assets/f10d6163-94e8-4618-8954-6fb95623754b)"/>
+        <img src="https://i.pinimg.com/originals/c6/17/4a/c6174a01117d34e04eb15d37d652c635.gif"/>
       </td>
     </tr>
   </table>
