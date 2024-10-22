@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!;+I%27m+Akash+De+Alwis+!;" />
 </h1>
-
+![Cointellect](https://github.com/user-attachments/assets/20a5aca2-6aa4-4754-99d3-9627849d1f39)
 
 <h3 align="center">A passionate IT student from Sri Lanka Institute of Information Technology.</h3>
 
