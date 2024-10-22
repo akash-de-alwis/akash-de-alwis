@@ -28,6 +28,15 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+
+### 📝 Latest Blog Posts
+- ![java](https://img.shields.io/badge/Category-java-green)  [Understanding Java Data Structures: Stacks, Queues, Lists, and Trees.](https://zencode002.hashnode.dev/understanding-java-data-structures-stacks-queues-lists-and-trees)
+- ![java](https://img.shields.io/badge/Category-java-green) [Java Collections Framework](https://zencode002.hashnode.dev/java-collections-framework)
+- ![java](https://img.shields.io/badge/Category-java-green) [Java Exception Handling](https://zencode002.hashnode.dev/java-exception-handling)
+
+<div align="center">
+    <a href="https://zencode002.hashnode.dev/">See All Blog Posts</a>
+</div>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
