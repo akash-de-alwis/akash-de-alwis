@@ -21,7 +21,7 @@
         </ul>
       </td>
       <td>
-        <img src="https://i.pinimg.com/originals/c6/17/4a/c6174a01117d34e04eb15d37d652c635.gif"/>
+        <img src="https://pixeljoint.com/files/icons/full/4004_simu_part.gif"/>
       </td>
     </tr>
   </table>
