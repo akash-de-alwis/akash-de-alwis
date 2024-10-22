@@ -21,7 +21,7 @@
         </ul>
       </td>
       <td>
-        <img src="https://i.pinimg.com/originals/c6/17/4a/c6174a01117d34e04eb15d37d652c635.gif" alt="GIF" width="300px"/>
+        <img src="https://pin.it/7t9A9iri9" alt="GIF" width="300px"/>
       </td>
     </tr>
   </table>
