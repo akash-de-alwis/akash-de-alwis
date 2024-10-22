@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!;+I%27m+Akash+De+Alwis+!;" />
 </h1>
-![Cointellect](https://github.com/user-attachments/assets/20a5aca2-6aa4-4754-99d3-9627849d1f39)
 
 <h3 align="center">A passionate IT student from Sri Lanka Institute of Information Technology.</h3>
 
@@ -22,7 +21,7 @@
         </ul>
       </td>
       <td>
-        <img src="https://pixeljoint.com/files/icons/full/4004_simu_part.gif" alt="GIF" width="300px"/>
+        <img src="https://i.pinimg.com/originals/c6/17/4a/c6174a01117d34e04eb15d37d652c635.gif" alt="GIF" width="300px"/>
       </td>
     </tr>
   </table>
