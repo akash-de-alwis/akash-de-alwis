@@ -39,6 +39,22 @@
 </div>
 <!-- BLOG-POST-LIST:END -->
 
+### 🔥 Streak Stats:
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-de-alwis&theme=tokyonight" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=akash-de-alwis&show_icons=true&theme=tokyonight" alt="Akash's GitHub stats"/>
+    </td>
+  </tr>
+</table>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alwisakash002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alwisakash002" height="30" width="40" /></a>&nbsp;
