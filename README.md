@@ -29,25 +29,30 @@
   </table>
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-de-alwis)&nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-Visit-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1057331971749072897)&nbsp;&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-Progress-brightgreen?style=for-the-badge&logo=leetcode)](https://www.codefactor.io/repository/new)&nbsp;&nbsp;
 ![Contributions](https://img.shields.io/badge/contributions-100%2B-blue?style=for-the-badge)
-
-![Commits Badge](https://badges.pufler.dev/commits/monthly/akash-de-alwis)&nbsp;&nbsp;
-![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-[![Discord](https://img.shields.io/discord/your-discord-server-id?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/your-discord-server-id)
-
 
 <!-- BLOG-POST-LIST:START -->
 
 ### 📝 Latest Blog Posts
-- ![java](https://img.shields.io/badge/Category-java-green)  [Understanding Java Data Structures: Stacks, Queues, Lists, and Trees.](https://zencode002.hashnode.dev/understanding-java-data-structures-stacks-queues-lists-and-trees)
-- ![java](https://img.shields.io/badge/Category-java-green) [Java Collections Framework](https://zencode002.hashnode.dev/java-collections-framework)
-- ![java](https://img.shields.io/badge/Category-java-green) [Java Exception Handling](https://zencode002.hashnode.dev/java-exception-handling)
+- <a href="https://zencode002.hashnode.dev/understanding-java-data-structures-stacks-queues-lists-and-trees" >![java](https://img.shields.io/badge/Category-java-green) </a>
+- <a href="https://zencode002.hashnode.dev/java-collections-framework" >![java](https://img.shields.io/badge/Category-java-green) </a>
+- <a href="https://zencode002.hashnode.dev/java-exception-handling" >![java](https://img.shields.io/badge/Category-java-green) </a>
 
-<div align="center">
-    <a href="https://zencode002.hashnode.dev/">See All Blog Posts</a>
+    <div align="left">
+  <a href="https://zencode002.hashnode.dev/">
+    <img src="https://img.shields.io/badge/See_All_Posts-red" alt="See All Posts">
+  </a>
 </div>
 <!-- BLOG-POST-LIST:END -->
+<br>
+
+![Spotify](https://novatorem.vercel.app/api/spotify)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-de-alwis&layout=compact&theme=radical)
+
+
+
 
 ### 🔥 Streak Stats:
 <table>
@@ -63,6 +68,8 @@
   </tr>
 </table>
 
+![Commits Badge](https://badges.pufler.dev/commits/monthly/akash-de-alwis)&nbsp;&nbsp;
+![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 
 <h3 align="left">Connect with me:</h3>
