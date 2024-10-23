@@ -27,6 +27,8 @@
   </table>
 </div>
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Progress-brightgreen?style=for-the-badge&logo=leetcode)](https://www.codefactor.io/repository/new)
+
 <!-- BLOG-POST-LIST:START -->
 
 ### 📝 Latest Blog Posts
