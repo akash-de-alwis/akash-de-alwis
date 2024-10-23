@@ -21,7 +21,7 @@
         </ul>
       </td>
       <td>
-        <img src="https://i.pinimg.com/originals/0f/ac/a7/0faca7966eaa862e84ac9dfd07c34513.gif" style="width:450px;"/>
+        <img src="https://i.pinimg.com/originals/0f/ac/a7/0faca7966eaa862e84ac9dfd07c34513.gif" style="width:400px;"/>
       </td>
     </tr>
   </table>
