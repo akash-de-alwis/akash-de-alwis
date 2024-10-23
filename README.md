@@ -4,7 +4,9 @@
 
 <h3 align="center">A passionate IT student from Sri Lanka Institute of Information Technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-de-alwis&label=Profile%20views&color=0e75b6&style=flat" alt="akash-de-alwis" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=akash-de-alwis&label=Profile%20views&color=0e75b6&style=flat" alt="akash-de-alwis"  /> &nbsp; ![Followers](https://img.shields.io/github/followers/akash-de-alwis?style=social)
+
+
 
 ![Add a heading (1)](https://github.com/user-attachments/assets/f0a9a5b4-3f2a-465d-913a-9a6e63c0427e)
 <div align="left">
@@ -27,7 +29,13 @@
   </table>
 </div>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Progress-brightgreen?style=for-the-badge&logo=leetcode)](https://www.codefactor.io/repository/new)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Progress-brightgreen?style=for-the-badge&logo=leetcode)](https://www.codefactor.io/repository/new)&nbsp;&nbsp;
+![Contributions](https://img.shields.io/badge/contributions-100%2B-blue?style=for-the-badge)
+
+![Commits Badge](https://badges.pufler.dev/commits/monthly/akash-de-alwis)&nbsp;&nbsp;
+![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+[![Discord](https://img.shields.io/discord/your-discord-server-id?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/your-discord-server-id)
+
 
 <!-- BLOG-POST-LIST:START -->
 
