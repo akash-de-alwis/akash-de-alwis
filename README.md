@@ -51,11 +51,6 @@
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-de-alwis&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=white)
 
-
-
-
-
-
 ### 🔥 Streak Stats:
 <table>
   <tr>
