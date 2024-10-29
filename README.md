@@ -14,11 +14,11 @@
     <tr>
       <td>
         <ul>
-          <li>👨‍💻 All of my projects are available at <a href="https://akash-de-alwis.github.io/profolio/">akashdealwis.kesug.com</a></li>
-          <li>📝 I regularly write articles on <a href="https://zencode002.hashnode.dev/">zencode002.hashnode.dev</a></li>
-          <li>📫 How to reach me: <a href="mailto:akashdealwis@gmail.com">akashdealwis@gmail.com</a></li>
+          <li>👨‍💻 All of my projects are available at <a href="https://akash-de-alwis.github.io/profolio/" target="_blank">akashdealwis.kesug.com</a></li>
+          <li>📝 I regularly write articles on <a href="https://zencode002.hashnode.dev/" target="_blank">zencode002.hashnode.dev</a></li>
+          <li>📫 How to reach me: <a href="mailto:akashdealwis@gmail.com" target="_blank">akashdealwis@gmail.com</a></li>
           <li>💬 Ask me about <strong>Kotlin or Figma</strong></li>
-          <li>📄 Know about my experiences: <a href="https://akash-de-alwis.github.io/profolio/">akashdealwis.kesug.com</a></li>
+          <li>📄 Know about my experiences: <a href="https://akash-de-alwis.github.io/profolio/ target="_blank"">akashdealwis.kesug.com</a></li>
           <li>⚡ Fun fact: <strong>My best code ideas come during coffee breaks.</strong></li>
         </ul>
       </td>
