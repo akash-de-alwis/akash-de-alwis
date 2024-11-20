@@ -24,15 +24,20 @@
       </td>
       <td>
         <img src="https://i.pinimg.com/originals/0f/ac/a7/0faca7966eaa862e84ac9dfd07c34513.gif" style="width:400px;"/>
+        <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
       </td>
     </tr>
   </table>
 </div>
-
+    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-de-alwis)&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-Visit-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1057331971749072897)&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Progress-brightgreen?style=for-the-badge&logo=leetcode)](https://www.codefactor.io/repository/new)&nbsp;&nbsp;
-![Contributions](https://img.shields.io/badge/contributions-100%2B-blue?style=for-the-badge)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Progress-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com)&nbsp;&nbsp;
+![Contributions](https://img.shields.io/badge/contributions-100%2B-blue?style=for-the-badge)&nbsp;&nbsp; 
+[![Hashnode](https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white)](https://achhoubiplus.hashnode.dev)&nbsp;&nbsp; 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;&nbsp; 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -67,8 +72,12 @@
 </table>
 
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/akash-de-alwis)&nbsp;&nbsp;
-![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>&nbsp;&nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -80,7 +89,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,html,css,vscode,github,kotlin,figma,git,r,nodejs,javascript,mongodb,c,cpp,java,mysql,express" />
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,html,css,vscode,github,kotlin,figma,git,r,nodejs,javascript,mongodb,c,cpp,java,mysql,express,androidstudio" />
 
 
 
