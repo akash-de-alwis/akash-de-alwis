@@ -24,7 +24,6 @@
       </td>
       <td>
         <img src="https://i.pinimg.com/originals/0f/ac/a7/0faca7966eaa862e84ac9dfd07c34513.gif" style="width:400px;"/>
-        <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
       </td>
     </tr>
   </table>
@@ -89,7 +88,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,html,css,vscode,github,kotlin,figma,git,r,nodejs,javascript,mongodb,c,cpp,java,mysql,express,androidstudio" />
-
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,html,css,vscode,github,kotlin,figma,git,r,nodejs,javascript,mongodb,c,cpp,java,mysql,express,androidstudio,wordpress,python"/>
 
 
