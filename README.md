@@ -14,7 +14,7 @@
     <tr>
       <td>
         <ul>
-          <li>👨‍💻 All of my projects are available at <a href="https://akash-de-alwis.github.io/profolio/" target="_blank">akashdealwisportfolio.com</a></li>
+          <li>👨‍💻 All of my projects are available at <a href="https://akash-de-alwis.github.io/PortolioX/" target="_blank">akashdealwisportfolio.com</a></li>
           <li>📝 I regularly write articles on <a href="https://zencode002.hashnode.dev/" target="_blank">zencode002.hashnode.dev</a></li>
           <li>📫 How to reach me: <a href="mailto:akashdealwis@gmail.com" target="_blank">akashdealwis@gmail.com</a></li>
           <li>💬 Ask me about <strong>Kotlin or Figma</strong></li>
