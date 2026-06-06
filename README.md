@@ -54,8 +54,6 @@
 <!-- BLOG-POST-LIST:END -->
 <br>
 
-### 🎧 Now Playing
-![Spotify](https://novatorem.vercel.app/api/spotify)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-de-alwis&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=white)
 
 ### 🔥 Streak Stats:
 <table>
@@ -64,9 +62,6 @@
       <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-de-alwis&theme=tokyonight" alt="GitHub Streak"/>
       </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=akash-de-alwis&show_icons=true&theme=tokyonight" alt="Akash's GitHub stats"/>
     </td>
   </tr>
 </table>
